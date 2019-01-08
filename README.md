@@ -1,6 +1,6 @@
 # Superhero RDF Dataset
 
-This dataset was created to illustrate OntoRefine in an article [here]().
+This dataset was created to illustrate OntoRefine in an article [here](https://medium.com/@addlesee/using-ontorefine-to-transform-tabular-data-into-linked-data-7277ec8c2c0f).
 
 The data is found in the data directory.
 
